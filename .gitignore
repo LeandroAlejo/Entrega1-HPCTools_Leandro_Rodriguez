@@ -1,0 +1,8 @@
+# Entorno virtual
+entornoTarea1/
+
+# Todos los logs
+*.log
+
+# Excepción: el log que sí quieres entregar
+!bert_profiler_results_10149881.log
